@@ -1,7 +1,7 @@
 ## <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/> hi, I'm Ahmad Bazzi - thank you for visiting my profile 🙏🏻
 
 I'm a research scientist at New York University (NYU) Abu Dhabi.
-I create content around programming, algorithms, mathematics and engineering on my [YouTube channel](https://www.youtube.com/channel/UCgC1d4JZ1Fz4t8MWLJD464w).
+I create content around programming, algorithms, mathematics and engineering on my [YouTube channel](https://www.youtube.com/channel/UCgC1d4JZ1Fz4t8MWLJD464w?sub_confirmation=1).
 My codes are mainly in MATLAB, Python and R - but I do geek around sometimes with C(++,#) ^^
 
 
@@ -27,7 +27,6 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 </div>
 
 ##
-
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
 [![Linkedin: drahmadbazzi](https://img.shields.io/badge/-drahmadbazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drahmadbazzi/)](https://www.linkedin.com/in/drahmadbazzi/)
-
+[![Twitter: drahmadbazzi](https://img.shields.io/twitter/follow/drahmadbazzi?style=social)](https://twitter.com/drahmadbazzi)
