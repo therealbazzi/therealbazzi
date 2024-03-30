@@ -25,3 +25,8 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 
   
 </div>
+
+##
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
+
