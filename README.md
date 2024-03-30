@@ -1,4 +1,4 @@
-## hey, I'm Ahmad Bazzi - thank you for visiting my profile 🙏🏻
+## <img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/> hi, I'm Ahmad Bazzi - thank you for visiting my profile 🙏🏻
 
 I'm a research scientist at New York University (NYU) Abu Dhabi.
 I create content around programming, algorithms, mathematics and engineering on my [YouTube channel](https://www.youtube.com/channel/UCgC1d4JZ1Fz4t8MWLJD464w).
