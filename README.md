@@ -22,9 +22,11 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
   <a href = "mailto:bazziapps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/drahmadbazzi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/drahmadbazzi" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-
   
 </div>
+
+##
+believer of perfect odds
 
 ##
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
