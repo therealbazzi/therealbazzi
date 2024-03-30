@@ -15,7 +15,7 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 </div>
   
   ##
- 
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCgC1d4JZ1Fz4t8MWLJD464w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/drahmadbazzi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,14 +26,15 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 </div>
 
 ##
-believer of perfect odds
 
+believer of perfect odds ($q^{\alpha} p_1^{2e_1} \cdots p_k^{2e_k} > 10^{1500}$) 
 ##
+
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
 [![Linkedin: drahmadbazzi](https://img.shields.io/badge/-drahmadbazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drahmadbazzi/)](https://www.linkedin.com/in/drahmadbazzi/)
 [![Twitter: drahmadbazzi](https://img.shields.io/twitter/follow/drahmadbazzi?style=social)](https://twitter.com/drahmadbazzi)
-
 ##
+
 行百里者半九十 <br>
 入乡随俗 <br>
 真金不怕紅爐火
