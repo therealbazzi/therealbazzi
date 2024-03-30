@@ -32,6 +32,6 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 [![Twitter: drahmadbazzi](https://img.shields.io/twitter/follow/drahmadbazzi?style=social)](https://twitter.com/drahmadbazzi)
 
 ##
-行百里者半九十
-入乡随俗
+行百里者半九十 <br>
+入乡随俗 <br>
 真金不怕紅爐火
