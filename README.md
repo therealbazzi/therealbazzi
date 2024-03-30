@@ -29,4 +29,5 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 ##
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
+[![Linkedin: drahmadbazzi](https://img.shields.io/badge/-drahmadbazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drahmadbazzi/)](https://www.linkedin.com/in/drahmadbazzi/)
 
