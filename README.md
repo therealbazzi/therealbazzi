@@ -27,7 +27,7 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 
 ##
 
-believer of perfect odds ($q^{\alpha} p_1^{2e_1} \cdots p_k^{2e_k} > 10^{1500}$) 
+believer of perfect odds ($q^{\alpha} p_1^{2e_1} \cdots p_k^{2e_k} > 10^{1500}$), sorry Euclid ☹️
 ##
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
