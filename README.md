@@ -29,6 +29,7 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 
 * believer of perfect odds ($q^{\alpha} p_1^{2e_1} \cdots p_k^{2e_k} > 10^{1500}$), sorry Euclid ☹️
 * *"If* $p$ *is prime, then* $p$ *divides* $(p-1)! + 1$*"*
+* A wise man once said, *"you can always find a prime number between a natural number $>1$ and its double."* 
 ##
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/therealbazzi?label=follow&style=social)](https://github.com/therealbazzi)
