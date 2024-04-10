@@ -42,4 +42,6 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 入乡随俗 <br>
 真金不怕紅爐火
 
-البحصة بتسند خابية
+"البحصة بتسند خابية"
+
+"يا ويلو الورد باذار - لما تطلي مقابيلو"
