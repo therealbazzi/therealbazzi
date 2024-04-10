@@ -44,4 +44,4 @@ My codes are mainly in MATLAB, Python and R - but I do geek around sometimes wit
 
 "البحصة بتسند خابية"
 
-"يا ويلو الورد باذار - لما تطلي مقابيلو"
+"القالب غالب يا ستار - عالبكلة تفاصيلو - يا ويلو الورد باذار - لما تطلي مقابيلو"
